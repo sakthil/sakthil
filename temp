@@ -1,1 +1,2 @@
-kubeadm join 10.0.2.15:6443 --token ox7tlo.f0jubs3ykdbe8j1i --discovery-token-ca-cert-hash sha256:dfce29376cafe0c2f4a634f758696995206bc26322a39ff08deefd49ab142a22
+#!binbash
+echo welcome
